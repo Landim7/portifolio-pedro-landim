@@ -50,13 +50,17 @@ Atualmente cursando o 1º semestre período de engenharia de software na UNICID.
 #### 🗃️ Programação de computadores 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritimo de Auditoria de Dados** | Um programa que analisa a consistencia de dados financeiros, ultilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomaçias. | [Ver Projeto](./limite-de-segurança/) 
+| **Algoritimo de Auditoria de Dados** | Um programa que analisa a consistencia de dados financeiros, ultilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomaçias. | 
+[Ver Projeto](./limite-de-segurança/) 
 | **Engenharia de Soluções Lógicas** | apresento consolidado que organiza todos os módulos que você desenvolveu (Logística, Clima, Gestão Escolar, Finanças e Processamento de Imagem) 
-Projeto](./sistema-de-logistica-e-gestao-de-entregas/)
+[Ver Projeto](./sistema-de-logistica-e-gestao-de-entregas/) 
 | **Traduzindo Lógica para Python** | O processo de Engenharia de Soluções Lógicas demonstrado nos seus arquivos reflete a transição entre o pensamento abstrato (algoritmos e fluxogramas) e a implementação técnica (Python).
-Projeto](./projeto-algoritmo-de-auditoria-de-dados/)
+[Ver Projeto](./processar-vendas/)
+[Ver Projeto](./simulador-popança/)
+[Ver Projeto](./sistema-turma/)
+[Ver Projeto](./analisar-clima/)
 | **Desenhando Emojis com Dados** | apresento uma proposta focada especificamente nessa habilidade de converter números e matrizes em representações visuais.
-Projeto](./projeto-algoritmo-de-auditoria-de-dados/)
+[Ver Projeto](./emoji/) 
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
