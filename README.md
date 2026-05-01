@@ -50,7 +50,7 @@ Atualmente cursando o 1º semestre período de engenharia de software na UNICID.
 #### 🗃️ Programação de computadores 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritimo de Auditoria de Dados** | Um programa que analisa a consistencia de dados financeiros, ultilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomaçias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) 
+| **Algoritimo de Auditoria de Dados** | Um programa que analisa a consistencia de dados financeiros, ultilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomaçias. | [Ver Projeto](./limite-de-segurança/) 
 | **Engenharia de Soluções Lógicas** | apresento consolidado que organiza todos os módulos que você desenvolveu (Logística, Clima, Gestão Escolar, Finanças e Processamento de Imagem) 
 Projeto](./projeto-algoritmo-de-auditoria-de-dados/)
 | **Traduzindo Lógica para Python** | O processo de Engenharia de Soluções Lógicas demonstrado nos seus arquivos reflete a transição entre o pensamento abstrato (algoritmos e fluxogramas) e a implementação técnica (Python).
